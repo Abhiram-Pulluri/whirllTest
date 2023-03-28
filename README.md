@@ -19,11 +19,13 @@ Using this contract we can buyToken at a price of UnitTokenPrice=0.001 ehter.
 we can mint "MTK" tokens ,which is a ERC20 token with decimal value "18".
 
 If we deploy the contract ,the owner address is preminted with 1000000000 Tokens.
+
 #App:
 
-This is the react frontEnd part of the project.
+This is the react frontEnd part of the project,Composed of basic code to acheive the required
+functionalities with respect to in given time.
 
-Where You can connect your metamask wallet in the frontend.
+We can connect your metamask wallet in the frontend.
 
 You can change accounts and networks.This will display the changed address and network with respect to the Metamask.
 
